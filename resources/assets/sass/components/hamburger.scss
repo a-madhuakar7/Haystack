@@ -1,0 +1,28 @@
+.hamburger{
+   border:1px solid #ddd; 
+   width:50px;
+   height:40px;
+   box-sizing:border-box;
+   display:block; 
+  text-align:center;
+  padding-top:10px;
+  border-radius:4px; 
+  background-color:transparent;
+  cursor:pointer; 
+  outline:none; 
+  margin-top:5px;
+}
+
+.hamburger:hover{
+  background:#ddd;
+}
+
+.hamburger-line{
+  border-top:2px solid #888; 
+  display:block; 
+  margin-bottom:5px;
+  width:20px;
+  margin-left:auto;
+  margin-right:auto; 
+  border-radius:4px;
+}

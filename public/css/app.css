@@ -1,0 +1,57 @@
+#sidebar-wrapper {
+  background: white; }
+
+.sidebar-nav li a:hover {
+  color: #ddd; }
+
+.sidebar-title {
+  color: grey; }
+
+.hamburger {
+  border: 1px solid #ddd;
+  width: 50px;
+  height: 40px;
+  box-sizing: border-box;
+  display: block;
+  text-align: center;
+  padding-top: 10px;
+  border-radius: 4px;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  margin-top: 5px; }
+
+.hamburger:hover {
+  background: #ddd; }
+
+.hamburger-line {
+  border-top: 2px solid #888;
+  display: block;
+  margin-bottom: 5px;
+  width: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 4px; }
+
+html {
+  height: 100%; }
+
+body {
+  height: 100%;
+  overflow: auto; }
+
+#wrapper {
+  height: 100% !important; }
+
+#page-content-wrapper {
+  height: 100% !important;
+  padding: 0 !important; }
+
+#content-container {
+  padding: 0 !important; }
+
+.navbar-default {
+  background-color: white;
+  border-color: white; }
+
+/*# sourceMappingURL=app.css.map */

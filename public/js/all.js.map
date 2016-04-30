@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"all.js","sourcesContent":["new Vue({\n\tel:'body', \n\n\tready:function()\n\t{\n\t\tconsole.log(\"main vue comp is ready\");\n\t}\n}); "],"sourceRoot":"/source/"}
